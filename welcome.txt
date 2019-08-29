@@ -1,2 +1,6 @@
 Welcome to my Repo.
+<<<<<<< HEAD
 I have the river for a soul. Sweet nothing.
+=======
+I have the river for a soul. I've got the fire for a heart.
+>>>>>>> dev
